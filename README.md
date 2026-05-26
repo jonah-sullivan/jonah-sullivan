@@ -36,11 +36,9 @@ Work centres on improving developer experience and reproducibility in QGIS plugi
 ## Maintained Projects
 
 ### QGIS Plugin Builder
-Framework for generating structured QGIS plugin templates aligned with best-practice project layouts.
-
-[https://github.com/jonah-sullivan/Qgis-Plugin-Builder](https://plugins.qgis.org/plugins/pluginbuilder4/#plugin-details)
+- Framework for generating structured QGIS plugin templates aligned with best-practice project layouts.
+- [https://github.com/jonah-sullivan/Qgis-Plugin-Builder](https://plugins.qgis.org/plugins/pluginbuilder4/#plugin-details)
 
 ### pb_tool (Plugin Build Tool)
-Command line build system for QGIS plugins, covering compilation, packaging, and deployment workflows.
-
-[https://pypi.org/project/pb-tool/](https://pypi.org/project/pb-tool/)
+- Command line build system for QGIS plugins, covering compilation, packaging, and deployment workflows.
+- [https://pypi.org/project/pb-tool/](https://pypi.org/project/pb-tool/)
