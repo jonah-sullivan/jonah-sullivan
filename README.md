@@ -1,15 +1,14 @@
 # Jonah Sullivan
 
+Senior Geospatial Advisor  
+QGIS | Python | Open Source 
+
 [![Followers](https://img.shields.io/github/followers/jonah-sullivan?style=social)](https://github.com/jonah-sullivan)
 [![Stars](https://img.shields.io/github/stars/jonah-sullivan?style=social)](https://github.com/jonah-sullivan)
 [![PyPI](https://img.shields.io/pypi/v/pb-tool)](https://pypi.org/project/pb-tool/)
 [![QGIS](https://img.shields.io/badge/QGIS-Developer-green?logo=qgis)](https://qgis.org/)
 
-Senior Geospatial Advisor | GIS Developer | Open Source
-
-Geospatial professional working in the Australian public sector with a focus on Python-based tooling, QGIS development, and open-source geospatial workflows.
-
-Work centres on improving developer experience and reproducibility in QGIS plugin development through automation, scaffolding, and build tooling
+Geospatial professional working in the Australian public sector with a focus on Python-based tooling, QGIS development, and open-source geospatial workflows. Work centres on improving developer experience and reproducibility in QGIS plugin development through automation, scaffolding, and build tooling.
 
 ## About
 
@@ -17,7 +16,7 @@ Work centres on improving developer experience and reproducibility in QGIS plugi
 - Background in environmental science, marine planning, and geospatial analysis  
 - Extensive experience working with GIS systems and spatial data  
 - Interested in automation, tooling, and developer workflows for geospatial applications
-- Geographic Information Systems Professional (GISP)  
+- Certified Geographic Information Systems Professional ([GISP](https://credentials.gisci.org/credentials/8d1f5bdb-7122-4410-9f11-b9f7ba7ad743?preview=1))  
 
 ## Open Source and Community
 
