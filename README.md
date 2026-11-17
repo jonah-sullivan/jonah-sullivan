@@ -16,7 +16,8 @@ Geospatial professional working in the Australian public sector with a focus on 
 - Background in environmental science, marine planning, and geospatial analysis
 - Extensive experience working with GIS systems and spatial data governance
 - Interested in automation, tooling, and developer workflows for geospatial applications
-- Certified Geographic Information Systems Professional ([GISP](https://credentials.gisci.org/credentials/8d1f5bdb-7122-4410-9f11-b9f7ba7ad743?preview=1))  
+- Certified Geographic Information Systems Professional ([GISP](https://credentials.gisci.org/credentials/8d1f5bdb-7122-4410-9f11-b9f7ba7ad743?preview=1))
+- Certified [SAFe Scrum Master](https://www.credly.com/badges/d21d3c44-21aa-4a11-bb93-76fd47c9ff6b/public_url)
 
 ## Open Source and Community
 
